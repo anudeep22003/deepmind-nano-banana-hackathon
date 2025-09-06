@@ -1,0 +1,9 @@
+commit_details.txt
+.env
+.DS_Store
+
+CLAUDE.md
+.claude/
+*clarifying*
+backend/terminal.py
+claude_playground
